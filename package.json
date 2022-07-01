@@ -1,0 +1,11 @@
+{
+  "name": "walletconnect-vite-patch",
+  "version": "1.0.0",
+  "description": "Fix walletconnect usage in vite environment",
+  "main": "index.cjs.js",
+  "module": "./index.esm.js",
+  "keywords": [
+    "walletconnect",
+    "vite"
+  ]
+}
